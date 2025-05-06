@@ -1,6 +1,9 @@
 # 🧠 OCD Patient Analysis Dashboard
 An interactive Streamlit dashboard to explore, visualize, and predict Obsessive-Compulsive Disorder (OCD) diagnoses using clinical and demographic data.
 
+## 🚀 Live Demo
+[Click here to try the dashboard](https://ocdanalysis-app.streamlit.app/)
+
 ## 📌 Features
 - 📊 **Data Insights**: Explore patient demographics, monthly trends, and diagnosis stats.
 - 📈 **Visual Analysis**: Compare symptom severity across genders and treatment methods.
