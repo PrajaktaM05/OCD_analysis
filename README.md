@@ -17,4 +17,20 @@ An interactive Streamlit dashboard to explore, visualize, and predict Obsessive-
 | **Scikit-learn** | Machine learning model |
 | **Streamlit** | Web dashboard development |
 
-## 📸 Screenshots
+## 📸 Dashboard Screenshots
+
+### 1.Header
+![Header](Images/Dash-1.png)
+
+### 2. Demographics Analysis 
+![Demographics](Images/Dash-2.png)
+
+### 3. Patients per Month  
+![Patients per Month](Images/Dash-3.png)
+
+### 4. Symptom Severity  
+![Symptom Severity](Images/Dash-4.png)
+
+### 5. OCD Prediction  
+![OCD Prediction](Images/Dash-5.png)
+
